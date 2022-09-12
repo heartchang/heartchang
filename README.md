@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heartchang
 - 👀 I’m interested in Shell,Sed,Awk and Python.
 - 🌱 I’m currently learning Shell,Sed,Awk and Python.
-- 💞️ I’m looking to collaborate on yet.
+- 💞️ I’m looking to collaborate not yet.
 - 📫 How to reach me ...
 
 <!---
